@@ -24,6 +24,9 @@ In your main class
 ## Travis image
 [![Build Status](https://travis-ci.org/uygurugurlu/myDemoApp.svg?branch=master)](https://travis-ci.org/uygurugurlu/myDemoApp)
 
+## Demo App
+https://pure-harbor-36019.herokuapp.com/compute
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
