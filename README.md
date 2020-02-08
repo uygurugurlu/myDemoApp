@@ -21,6 +21,8 @@ In your main class
         System.out.println(guessGame(p1,p2,s1,s2));
     }
 ```
+## Travis link
+https://travis-ci.org/uygurugurlu/myDemoApp.svg?branch=master
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
